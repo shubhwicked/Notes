@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="first_fragment_label">SignInFragment</string>
+    <string name="cancel">Cancel</string>
+    <string name="logout">Log out</string>
+    <string name="press_button_to_add_notes">Press + button to add notes</string>
+    <string name="write_your_note_here">Write your note here</string>
+    <string name="title">Title</string>
+</resources>
